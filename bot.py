@@ -116,7 +116,7 @@ def creditCard(cardName):
     #nameCardPrintedSelect = WebDriverWait(site, duration).until(EC.element_to_be_clickable((By.ID, 'nomeImpressoCartaoCredito'))).click()
     #WebDriverWait(site, duration).until(EC.element_to_be_clickable((By.ID, 'nomeImpressoCartaoCredito'))).send_keys(cardName)
 
-logar('renatopessoa__@hotmail.com','nrb20252', chooseSite)
+logar('bot.ps5.unit@gmail.com','testebot123456', chooseSite)
 newTab()
 addCart(chooseSite)
 
